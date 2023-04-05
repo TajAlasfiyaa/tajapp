@@ -17,7 +17,6 @@ export default function App() {
     <SafeAreaView className="border-l-blue-500" style={styles.container}>
       <View style={styles.main} />
       <View style={{ flex: 1 / 3, flexDirection: "row" }}>
-        <
         <View
           style={{
             backgroundColor: "black",
